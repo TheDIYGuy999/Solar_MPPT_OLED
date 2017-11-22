@@ -7,3 +7,5 @@ A simple solar MPPT (maximum power point tracking) charge controller for lead ac
 - Charge pump for mosfet driver
 
 Unfortunately I only have some hand-drawn schematics
+
+See video: https://www.youtube.com/watch?v=vidzGq0El-U&lc=UgzTLPEktr6r6EbFqI54AaABAg
